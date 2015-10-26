@@ -42,9 +42,9 @@
               <caret line="77" column="24" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="24" />
               <folding>
                 <element signature="e#46#74#0#PHP" expanded="true" />
-                <marker date="1445405854252" expanded="true" signature="732:739" placeholder="SELECT * FRO..charges..." />
-                <marker date="1445405854252" expanded="true" signature="732:912" placeholder="SELECT sum(a..." />
-                <marker date="1445405854252" expanded="true" signature="983:1165" placeholder="SELECT sum(a..." />
+                <marker date="1445847079845" expanded="true" signature="732:739" placeholder="SELECT * FRO..charges..." />
+                <marker date="1445847079845" expanded="true" signature="732:912" placeholder="SELECT sum(a..." />
+                <marker date="1445847079845" expanded="true" signature="983:1165" placeholder="SELECT sum(a..." />
               </folding>
             </state>
           </provider>
@@ -83,7 +83,7 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../site/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2844445">
+            <state vertical-scroll-proportion="0.49656358">
               <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding />
             </state>
@@ -399,7 +399,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="16" width="1292" height="744" extended-state="1" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,7 +407,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5613208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5613208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -763,9 +763,9 @@
           <caret line="77" column="24" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="24" />
           <folding>
             <element signature="e#46#74#0#PHP" expanded="true" />
-            <marker date="1445405854252" expanded="true" signature="732:739" placeholder="SELECT * FRO..charges..." />
-            <marker date="1445405854252" expanded="true" signature="732:912" placeholder="SELECT sum(a..." />
-            <marker date="1445405854252" expanded="true" signature="983:1165" placeholder="SELECT sum(a..." />
+            <marker date="1445847079845" expanded="true" signature="732:739" placeholder="SELECT * FRO..charges..." />
+            <marker date="1445847079845" expanded="true" signature="732:912" placeholder="SELECT sum(a..." />
+            <marker date="1445847079845" expanded="true" signature="983:1165" placeholder="SELECT sum(a..." />
           </folding>
         </state>
       </provider>
@@ -803,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../site/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2844445">
+        <state vertical-scroll-proportion="0.49656358">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding />
         </state>
