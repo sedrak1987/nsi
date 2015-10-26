@@ -1,0 +1,29 @@
+td{
+    width: 15px !important;
+}
+
+.cont_width{
+     padding-right: 125px;
+ }
+
+input.form-control {
+    width: 403px;
+}
+option{
+    width: 500px;
+}
+
+.marg_left{
+    margin-left: 223px !important;
+}
+.ion-del{
+    background-color: #3C8DBC;
+}
+
+.project_error{
+    width: 593px;
+}
+
+.account_error{
+    width: 593px;
+}
